@@ -25,10 +25,6 @@
 
 
 ## About The Project
-
-<p align="center">
-  <img src="assets/images/screens/Mockup.jpg" width="100%" />
-</p>
  
 The project was made for the IOS and Android platforms through React Native with Expo.
 <br />
